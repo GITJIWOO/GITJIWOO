@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning FullStack
+- 🌱 I’m currently learning Spring Framework
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GITJIWOO)](https://github.com/anuraghazra/github-readme-stats)
 
